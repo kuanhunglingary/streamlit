@@ -49,7 +49,7 @@ with col1:
 
 with col2:
     st.title(NAME)
-    st.write(DESCRIPTION)
+    # st.write(DESCRIPTION)
     st.download_button(
         label=" 📄 Download Resume",
         data=PDFbyte,
@@ -153,9 +153,9 @@ st.write(
 """
 )
 
-# --- Projects & Accomplishments ---
+# --- Projects ---
 st.write('\n')
-st.subheader("Projects & Accomplishments")
+st.subheader("Projects")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
