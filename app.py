@@ -65,6 +65,15 @@ cols = st.columns(len(SOCIAL_MEDIA))
 for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
+# --- Education ---
+st.write('\n')
+st.subheader("Education")
+st.write(
+    """
+- 🎓 M.S. in Data Analytics Engineering George Mason University  2015/1~2017/5
+- 🎓 B.S. in Mathematics and Technology Education  National Taipei University of Education 2007/9~2011/6
+"""
+)
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
