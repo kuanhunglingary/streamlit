@@ -16,7 +16,7 @@ NAME = "Kuan-Hung Lin"
 # DESCRIPTION = """
 # Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
 # """
-EMAIL = "g12021202@gmail.com<"
+EMAIL = "g12021202@gmail.com"
 SOCIAL_MEDIA = {
     # "YouTube": "https://www.youtube.com/@g12021202/",
     "LinkedIn": "https://www.linkedin.com/in/kuan-hung-lin-045874b6/",
