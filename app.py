@@ -115,6 +115,19 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
+st.write("🚧", "**Python Engineer | Hi Sharp**")
+st.write("2023/02 - 2023/05")
+st.write(
+    """
+- ► Develop and maintain user-facing applications using QT and django REST framework.
+- ► Build and maintain scalable and reliable backend systems to support application functionality.
+- ► Extract data from websites using web scraping techniques.
+- ► Integrate with GCP/AWS services to provide additional functionality to applications.
+- ► Collaborate with frontend engineers and UI/UX designers to ensure the successful development and delivery of applications.
+"""
+)
+
+# --- JOB 2
 st.write("🚧", "**Big Data Processing Engineer | Groundhog**")
 st.write("2023/02 - 2023/05")
 st.write(
@@ -131,7 +144,7 @@ st.write(
 """
 )
 
-# --- JOB 2
+# --- JOB 3
 st.write('\n')
 st.write("🚧", "**Data Analysis Specialist | HOTAI DEVELOPMENT CO., LTD**")
 st.write("2022/06 - 2023/02")
@@ -143,7 +156,7 @@ st.write(
 """
 )
 
-# --- JOB 3
+# --- JOB 4
 st.write('\n')
 st.write("🚧", "**Academic Affair and Math teacher | Taipei learning institute**")
 st.write("2017/06 - 2022/05")
@@ -155,7 +168,7 @@ st.write(
 """
 )
 
-# --- JOB 4
+# --- JOB 5
 st.write('\n')
 st.write("🚧", "**Academic Affair and Math teacher | Taipei learning institute**")
 st.write("2012/07 - 2015/01")
