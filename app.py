@@ -101,7 +101,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL Server
 - 📊 Data Visulization: PowerBi, Tableau, MS Excel, Plotly
 - 📚 Modeling: Logistic regression, linear regression, decision trees
 - 🗄️ Databases: Postgres, MySQL, MongoDB
@@ -116,13 +116,17 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**Python Engineer | Hi Sharp**")
-st.write("2023/02 - 2023/05")
+st.write("2024/02 - Now")
 st.write(
     """
 - ► Develop and maintain user-facing applications using QT and django REST framework.
+- ► Ability to use configuration management tools and revision control system, such as Git.
+- ► Experience with CI/CD & Automation systems, such as Jenkins and Gitlab.
+- ► Understand Linux OS basic operations, such as Ubuntu and Raspberry Pi OS.
+- ► Experience with Nginx and Apache. 
 - ► Build and maintain scalable and reliable backend systems to support application functionality.
 - ► Extract data from websites using web scraping techniques.
-- ► Integrate with GCP/AWS services to provide additional functionality to applications.
+- ► Integrate with GCP and AWS services to provide additional functionality to applications.
 - ► Collaborate with frontend engineers and UI/UX designers to ensure the successful development and delivery of applications.
 """
 )
