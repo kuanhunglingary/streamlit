@@ -24,11 +24,16 @@ SOCIAL_MEDIA = {
     # "Twitter": "https://twitter.com",
 }
 PROJECTS = {
-    "🏆 streamlit yfinace update Per Minute": "https://github.com/kuanhunglingary/_streamlit_yfinace_updatePerMin_",
-    "🏆 stock Visualization": "https://github.com/kuanhunglingary/_stockVisualization_",
-    "🏆 stock SQLite GUI Tkinter": "https://github.com/kuanhunglingary/_stock_SQLite_GUI_Tkinter_",
-    "🏆 stock GUI Tkinter": "https://github.com/kuanhunglingary/_stock_GUI_Tkinter_",
-    "🏆 sWeb Scrap yOld Buildings": "https://github.com/kuanhunglingary/__Web_Scrapy_Old_Building__",
+    "🏆 Ollama LiteLLM": "https://github.com/kuanhunglingary/ollamaLiteLLM",
+    "🏆 Use Django framewrk to present all of my projects this year": "https://github.com/kuanhunglingary/DjangoPortfolio_",
+    "🏆 RPA_OCR_WebScrapy": "https://github.com/kuanhunglingary/pythonPersonalTools",
+    "🏆 Preprocess yfinace and Finmind dataset and then visualizing information": "https://github.com/kuanhunglingary/stock_visualization",
+    "🏆 stock SQLite GUI Tkinter and SQL to csv": "https://github.com/kuanhunglingary/SQLite",
+    "🏆 stock GUI Tkinter": "https://github.com/kuanhunglingary/stock_GUI_Tkinter",
+    "🏆 Web Scrapy Old Building": "https://github.com/kuanhunglingary/Web_Scrapy_Old_Building",
+    "🏆 2016 Virginia job description V.S. H-1B Visa Petitions 2011-2016 Datasets": "https://github.com/kuanhunglingary/twoJobDatasetVisualization",
+    "🏆 Airline Dataset: Preprocessing and clustering by RStudio & WEKA": "https://github.com/kuanhunglingary/DisasterDataset",
+    "🏆 NLPdisasterDataset": "https://github.com/kuanhunglingary/NLPdisasterDataset",
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
