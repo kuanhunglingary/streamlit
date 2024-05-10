@@ -1,6 +1,6 @@
 # Streamlit
 ### digital-resume-render
-Deploy on Render platform
+Deploy digital resume on Render platform.
 https://digital-cv-hz77.onrender.com
 
 ### Using streamlit via yfinance and matplotlib module to present the stock price per minute 
